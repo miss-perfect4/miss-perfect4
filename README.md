@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌟 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Anshika 🚀</h2>
+<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Anshika 🚀</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">A curious coder crafting logic into magic, shaping solutions with heart and code. ✨💡</p>
 
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlemx0cmV2b2Y1azVqczQ4cmRsd3NmeHZoNXU5Mno5MW9qdzczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
