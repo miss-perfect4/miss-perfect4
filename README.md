@@ -3,6 +3,8 @@
 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Anshika 🚀</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">A curious coder crafting logic into magic, shaping solutions with heart and code. ✨💡</p>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlemx0cmV2b2Y1azVqczQ4cmRsd3NmeHZoNXU5Mno5MW9qdzczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
 
