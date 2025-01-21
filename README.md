@@ -145,25 +145,39 @@
 
 
 ## 🏆 GitHub Trophies
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=miss-perfect4&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c3YTVucGN1OTkwMmI0MDI3Mmt1dHAzbTA0bW93aWdod2lseWNkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+</div>
+
 ### ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+</div>
 
 ### ✨ "Ready to bring ideas to life? 💡 Let's collaborate and make magic happen! ✨ Reach out anytime! 📬"
-![Connect GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6N3QzbnRsejVmb2QwNG5udmh3cGdxNGtvZ2k5MXp3MWM5bnByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xQQP4ahKiyuxHy/giphy.gif)
+
+<div align="center">
+
+  ![Connect GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6N3QzbnRsejVmb2QwNG5udmh3cGdxNGtvZ2k5MXp3MWM5bnByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xQQP4ahKiyuxHy/giphy.gif)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+</div>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=miss-perfect4&limit=5&theme=rose&combine_all_yearly_contributions=true)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miss-perfect4&icon=4&color=10)](https://visitcount.itsvg.in)
