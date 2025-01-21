@@ -1,9 +1,17 @@
-# 💫 About Me:
+<p align="center">
+  <a href="https://github.com/anshs-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Gemstones&size=30&pause=1000&color=000000&background=FF2CE500&center=true&width=800&lines=%22Greetings%2C+fellow+coders!+%F0%9F%91%8B%22;%22I'm+Anshika%2C+a+data+science+enthusiast..%F0%9F%92%BB%E2%9C%A8%22;%22Crafting+magic+through+code+%E2%9C%A8%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB.%22;%22Sorceress+of+code%2C+creating+digital+magic..%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%AB%22" alt="Typing SVG" />
+  </a>
+</p>
 
-<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Anshika 🚀</h2>
+<div align="center">
+ 
+<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Anshika 🌸💫</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">A curious coder crafting logic into magic, shaping solutions with heart and code. ✨💡</p>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+
+</div>
 
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlemx0cmV2b2Y1azVqczQ4cmRsd3NmeHZoNXU5Mno5MW9qdzczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
@@ -116,7 +124,8 @@
 
 
 # 📊 GitHub Stats:
-
+<div align="center">
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -131,6 +140,8 @@
 
 ![Developer GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI4cjA5cnBodnowb3c4cGlsMTZ1bjRzZGs4djYwMXhkNWxkMGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+  </div>
 
 
 ## 🏆 GitHub Trophies
