@@ -12,9 +12,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
 </div>
-
+<div align="center">
+  
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlemx0cmV2b2Y1azVqczQ4cmRsd3NmeHZoNXU5Mno5MW9qdzczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
+</div>
 
 🌱 I’m currently learning: Exploring the depths of algorithms and the art of full-stack development.<br>🚀 I’m currently working on: Building innovative projects that blend logic with creativity.<br>💡 About me: A passionate developer who finds magic in code and joy in problem-solving.<br>🎯 Goals: To craft meaningful applications and keep learning new technologies.<br>✨ Fun fact: I see code as poetry and debugging as a thrilling adventure.<br>
 
